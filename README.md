@@ -27,7 +27,7 @@ A modern, customizable desktop application built with Python and CustomTkinter f
 
 If you just want to run the app on Windows without installing Python:
 
-1. Go to the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/releases)** section on the right side of this repository.
+1. Go to the **[Releases](https://github.com/NameOneSan/qr-code-generator/releases)** section on the right side of this repository.
 2. Download the latest `qrcodegen_v1.0.zip` file.
 3. Extract the ZIP archive and run `qrcodegen.exe`.
 
